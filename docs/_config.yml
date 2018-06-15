@@ -2,7 +2,7 @@ theme: jekyll-theme-leap-day
 title: Comercial Simples Nordeste 
 description: "Soluções e Integrações Inteligentes - Windows/Linux a melhor solução para Automação de sua Empresa"
 keywords: Automação, Comercial, Sistema, CRM, Integração, Solução, ERP, Inteligente, Internet, Loja Virtual, Loja, Virtual, Hotmart
-show_downloads: false
+show_downloads: true
 google_analytics: UA-21710445-1
 locale: pt_BR
 lang: pt_BR
