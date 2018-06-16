@@ -6,9 +6,7 @@
 
 > Funciona com os principais e mais modernos bancos de dados SQL Server, Oracle, se for preciso.
 
-## Recursos
-
-### Controle de Estoque
+## Controle de Estoque
 
 * Inclusão de fotos no cadastro de produtos;
 * Facilmente se importa nota fiscal eletrônica para cadastro de novos produtos;
@@ -16,7 +14,7 @@
 * Consulta rápida e simples de produtos;
 * Visão sobre o produto a partir da compra ou da último venda;
 
-### Contas a Pagar e Receber
+## Contas a Pagar e Receber
 
 * Quitação de documentos com várias formas de pagamento;
 * Quitação parcial de documentos;
@@ -25,26 +23,25 @@
 * Cruzamentos entre contas a pagar a receber para agilizar quitações de pagamentos;
 * Troca de documentos para ajuste de contas e pagamentos;
 
-### Financeiro
+## Financeiro
 
 * Solução completa para auxiliar nas tomadas de decisão;
 * Flexibilidade para criação dos planos de contas e contas Caixa/Banco;
 * Fácil integração com seu sistema contábil;
 
-### Relatórios 
+## Relatórios 
 
 * Todos os relátorios básicos que você pode vir a precisar estão disponíveis em vários estilos de impressão;
 * É possível criar novos relatórios pelo próprio gerente da empresa ou analista financeiro de forma super simples com o gerador de relatórios sem intervir no sistema;
 * Gerenciador de BI que facilita a visualização dos dados e tomada de decisão;
 
-### Vendas ECF/TEF
+## Vendas ECF/TEF
 
 * Homologado com o uso de TEF Discado e Dedicado;
 * Vendas com cupom fiscal e frente de loja (PDV);
 * Integração com Lojas Virtuais;
 
-### Livros Magnéticos
+## Livros Magnéticos
 
 * SINTEGRA;
 * SPED Fiscal;
-
