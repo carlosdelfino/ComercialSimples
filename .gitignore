@@ -1,0 +1,8 @@
+ComercialSimples.code-workspace
+docs/Gemfile
+docs/Gemfile.lock
+docs/.vscode/
+docs/_site/
+docs/_config.yml
+docs/.rubocop.yml
+docs/.sass-cache/
