@@ -1,4 +1,4 @@
-O Comercial Simples, apelidado de CS é um sistema de gestão empresárial focado no comercio de mercadorias, atende demandas de pequenos empreendedores, inclusive MEI como também grandes empresas com multiplas filiais. Abaixo são listados alguns dos recursos principais do CS. Para maiores informações basta entrar em contato pelo telefone (85) 985205490 e caso queira fazer uma [instalação de testes siga as instruções clicando aqui](./support).
+O Comercial Simples, apelidado de CS é um sistema de gestão empresárial focado no comercio de mercadorias, atende demandas de pequenos empreendedores, inclusive MEI como também grandes empresas com multiplas filiais. Abaixo são listados alguns dos recursos principais do CS. Para maiores informações basta entrar em contato pelo telefone (85) 985205490 e caso queira fazer uma [instalação de testes siga as instruções clicando aqui](./install).
 
 * Desenvolvido usando Microsoft.NET com tecnologia WebServices;
 * Integração entre Loja e Matriz sem complicações com configurações de rede;
