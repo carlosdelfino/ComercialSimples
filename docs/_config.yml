@@ -1,21 +1,61 @@
-theme: jekyll-theme-leap-day
-title: Comercial Simples Nordeste 
-description: "Soluções e Integrações Inteligentes - Windows/Linux a melhor solução para Automação de sua Empresa"
-keywords: Automação, Comercial, Sistema, CRM, Integração, Solução, ERP, Inteligente, Internet, Loja Virtual, Loja, Virtual, Hotmart
+theme: "jekyll-theme-leap-day"
+title: "Comercial Simples Nordeste" 
+description: "Soluções e Integrações Inteligentes - A melhor solução para Automação de sua Empresa"
+keywords: [Automação, Comercial, Sistema, CRM, Integração, Solução, ERP, Inteligente, Internet, Loja, Virtual, Loja, Virtual, Hotmart]
 show_downloads: true
-google_analytics: UA-21710445-1
-locale: pt_BR
-lang: pt_BR
-charset: utf-8
-encoding: utf-8
+google_analytics: "UA-21710445-1"
+locale: "pt_BR"
+lang: "pt_BR"
+charset: "utf-8"
+encoding: "utf-8"
 repository: carlosdelfino/ComercialSimples
 
-# 283457d8e009388e8a5f5ea07893e9d11c3e0caau
 github:
-  zip_url: http://www.comercialsimples.com/InstalacaoCS/Versoes/cs1979.zip
-  tar_url: http://www.comercialsimples.com/InstalacaoCS/Versoes/cs1979.zip
+  zip_url: "http://www.comercialsimples.com/InstalacaoCS/Versoes/cs1979.zip"
 
+excerpt_separator: <!--more-->
 
-gems:
- - jekyll-github-metadata
- - jekyll-seo-tag
+markdown: kramdown
+
+plugins: 
+ - "jekyll-github-metadata"
+ - "jekyll-redirect-from"
+ - "jekyll-seo-tag"
+ - 'jekyll-feed'
+ - 'jekyll-sitemap'
+ - 'jekyll-theme-leap-day'
+ - "jekyll-remote-theme"
+ - "kramdown"
+ - "liquid"
+
+exclude:
+ - "/script/"
+ - "Gemfile"
+ - "Gemfile.lock"
+ - "README.md"
+ - "*.gemspec"
+ - "vendor"
+ - "lib"
+ - "config.rb"
+ - ".sass-cache"
+ - "Capfile"
+ - "config"
+ - "log"
+ - "Rakefile"
+ - "Rakefile.rb"
+ - "tmp"
+ - "_tmp"
+ - "*.sublime-project"
+ - "*.sublime-workspace"
+ - "Gemfile"
+ - "Gemfile.lock"
+ - "LICENSE"
+ - "_backup*"
+ - "*.bck"
+ - "*.tmp"
+ - "/*.bck/"
+ - "/*.tmp/"
+ - "/tmp/"
+ - ".git"
+ - ".git*"
+ - ".rubocop.yml"
